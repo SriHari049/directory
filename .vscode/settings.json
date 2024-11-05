@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\sriha\\OneDrive\\Desktop\\Project 2_1\\TELEPHONE\\lib\\ojdbc8-12.2.0.1.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
